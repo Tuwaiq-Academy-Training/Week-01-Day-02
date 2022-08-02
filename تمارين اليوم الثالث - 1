@@ -9,19 +9,15 @@ Make an array size  3  with these values : { "Saleh","Khalid","Majed" } and prin
 
 Print the numbers from 1 -  33 , don't print the numbers that multiple of 5
 
-##  التمرين الثالث
+## التمرين الثالث 
 
-Print the numbers from 1 - 20 , don't print the numbers that multiple of 5
+Make an array size 5 with random string values and print it in reverse order 
 
 ## التمرين الرابع 
 
-Make an array size  5  with random string values and print it in reverse order 
+Make an array size 10 with random string values , and don’t print the values that start with letter 'A'
 
 ## التمرين الخامس 
-
-Make an array size  10  with random string values , and don’t print the values that start with letter 'A'
-
-## التمرين السادس 
 
 Create a method that print an array.
 
@@ -33,9 +29,13 @@ Create a method that takes 3 numbers create an array from these numbers and retu
 
 Create a method that takes your first name and last name and return hello meessage with you full name .
 
+##  التمرين الثامن
 
+Create a method that takes 4 numbers and return the average of these numbers
 
+##  التمرين التاسع
 
+Create a methid that takes array of numbers and return the biggest number
 
 
 
