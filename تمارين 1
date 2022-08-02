@@ -1,0 +1,37 @@
+# تمارين اليوم الثالث
+
+##  التمرين الاول
+
+Make an array size  3  with these values : { "Saleh","Khalid","Majed" } and print it 
+
+
+##  التمرين الثاني
+
+Print the numbers from 1 -  33 , don't print the numbers that multiple of 5
+
+##  التمرين الثالث
+
+Print the numbers from 1 - 20 , don't print the numbers that multiple of 5
+
+## التمرين الرابع 
+
+Make an array size  5  with random string values and print it in reverse order 
+
+## التمرين الخامس 
+
+Make an array size  10  with random string values , and don’t print the values that start with letter 'A'
+
+## التمرين السادس 
+
+Create a method that print an array.
+
+## التمرين السادس 
+
+Create a method that takes 3 numbers create an array from these numbers and return it .
+
+
+
+
+
+
+
