@@ -6,14 +6,15 @@
  Make an array size 7
  and print the 9th index 
  array index out of bonds error should appear
- use try and catch to handle it 
  
- ##  التمرين الاول
+ ##  التمرين الثاني
+ 
+ Create a method that get a number as variable and check if this number is divided by 5 or not
+ 
+ - Throw exceptions if the number is not divided by 5
+ - Handle exception in main
+ - Use throw and throws
 
- Make an array size 7
- and print the 9th index 
- array index out of bonds error should appear
- use try and catch to handle it 
 
 
 ##  التمرين الثاني
