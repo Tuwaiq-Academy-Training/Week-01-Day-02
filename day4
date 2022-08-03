@@ -1,8 +1,15 @@
-# تمارين اليوم الثالث
+# تمارين اليوم الرابع
 
 ##  التمرين الاول
 
  
+ Make an array size 7
+ and print the 9th index 
+ array index out of bonds error should appear
+ use try and catch to handle it 
+ 
+ ##  التمرين الاول
+
  Make an array size 7
  and print the 9th index 
  array index out of bonds error should appear
